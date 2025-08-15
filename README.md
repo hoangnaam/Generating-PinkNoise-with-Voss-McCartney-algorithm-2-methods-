@@ -19,10 +19,6 @@ This will generate example spectra in `images/` for both approaches.
 
 ## Results (examples)
 
-| Octave-interval updates | Stochastic updates |
-|---|---|
-| ![Octaves](images/pink_noise_octaves_power_spectrum.png) | ![Stochastic](images/pink_noise_stochastic_power_spectrum.png) |
-
 The plots show the power spectrum on log–log axes; in both cases, the slope approaches −1 (characteristic of pink noise), with differences in texture due to update scheduling.
 
 ## Files
